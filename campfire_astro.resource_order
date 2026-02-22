@@ -4,13 +4,18 @@
     {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Font1","order":7,"path":"fonts/Font1/Font1.yy",},
+    {"name":"Object7","order":6,"path":"objects/Object7/Object7.yy",},
+    {"name":"oCoin","order":5,"path":"objects/oCoin/oCoin.yy",},
     {"name":"oFlag","order":2,"path":"objects/oFlag/oFlag.yy",},
     {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
     {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
     {"name":"oSpikes","order":3,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"sCoin","order":5,"path":"sprites/sCoin/sCoin.yy",},
     {"name":"sFlag","order":2,"path":"sprites/sFlag/sFlag.yy",},
     {"name":"sPlatform","order":1,"path":"sprites/sPlatform/sPlatform.yy",},
     {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"sSpike","order":3,"path":"sprites/sSpike/sSpike.yy",},
   ],
 }
