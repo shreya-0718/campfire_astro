@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFlag","order":2,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpikes","order":3,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"sFlag","order":2,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sPlatform","order":1,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sSpike","order":3,"path":"sprites/sSpike/sSpike.yy",},
+  ],
+}

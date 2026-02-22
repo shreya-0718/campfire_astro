@@ -1,0 +1,5 @@
+## Campfire Astronaut!
+
+Hello! This is my game to learn and practice Gamemaker, a game engine suitable for beginners, so I can assist young developers at Campfire Dallas-Fort Worth (a hackathon I'm organizing!).
+
+https://campfire.hackclub.com/dallas-fort-worth
