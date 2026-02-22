@@ -6,3 +6,4 @@ https://campfire.hackclub.com/dallas-fort-worth
 
 Play it here!
 https://shreyaluu.itch.io/campfire-astro
+Collect 15 stars to win!! Wait, are there only three stars? Find a way... I guess you're stuck in a loop.
